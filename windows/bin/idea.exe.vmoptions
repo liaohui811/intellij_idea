@@ -13,3 +13,4 @@
 -Djdk.attach.allowAttachSelf=true
 -Dkotlinx.coroutines.debug=off
 -Djdk.module.illegalAccess.silent=true
+-javaagent:C:\Program Files\intellij_idea\javaagent.jar
