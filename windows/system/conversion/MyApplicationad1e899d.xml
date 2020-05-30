@@ -1,0 +1,29 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="scala-facets-to-sdks" />
+    <converter id="Play2ModuleTypeConverterProvider" />
+    <converter id="go-project-model" />
+    <converter id="goland-project-model" />
+    <converter id="go-build-tags-settings" />
+    <converter id="go-run-file-configuration" />
+    <converter id="go-build-configuration" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="skaffold-single-run-converter" />
+    <converter id="google-app-engine-facet" />
+    <converter id="google-app-engine-migration" />
+    <converter id="gcp-staged-artifact-name-converter" />
+    <converter id="stackdriver-to-cloud-debugger-converter" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\.idea\encodings.xml" timestamp="1590827957196" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\.idea\gradle.xml" timestamp="1590829467848" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\app\app.iml" timestamp="1590829692781" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\.idea\compiler.xml" timestamp="1590828038563" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\My Application.iml" timestamp="1590828210818" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\.idea\workspace.xml" timestamp="1590830829078" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\.idea\misc.xml" timestamp="1590828426242" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\.idea\modules.xml" timestamp="1590828210848" />
+    <file path="C:\Users\LiangchengJ\Desktop\MyApplication\.idea\jarRepositories.xml" timestamp="1590828210875" />
+  </project-files>
+</conversion>

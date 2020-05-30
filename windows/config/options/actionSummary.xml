@@ -8,7 +8,7 @@
         <ActionSummary times="7" last="1590815633260" />
       </entry>
       <entry key="CloseProject">
-        <ActionSummary times="2" last="1590823739899" />
+        <ActionSummary times="3" last="1590830828444" />
       </entry>
       <entry key="CreateTaglibFileAction">
         <ActionSummary times="3" last="1590823467994" />
@@ -17,13 +17,13 @@
         <ActionSummary times="1" last="1590823501250" />
       </entry>
       <entry key="EditorBackSpace">
-        <ActionSummary times="266" last="1590823618461" />
+        <ActionSummary times="278" last="1590830214807" />
       </entry>
       <entry key="EditorChooseLookupItem">
         <ActionSummary times="54" last="1590823352804" />
       </entry>
       <entry key="EditorCopy">
-        <ActionSummary times="50" last="1590823318920" />
+        <ActionSummary times="52" last="1590829295968" />
       </entry>
       <entry key="EditorCut">
         <ActionSummary times="4" last="1590816522372" />
@@ -55,6 +55,9 @@
       <entry key="Go.NewGoFile">
         <ActionSummary times="1" last="1590822861496" />
       </entry>
+      <entry key="InvalidateCaches">
+        <ActionSummary times="3" last="1590830733510" />
+      </entry>
       <entry key="Kotlin.NewFile">
         <ActionSummary times="1" last="1590822830435" />
       </entry>
@@ -79,6 +82,9 @@
       <entry key="NewModuleInGroup">
         <ActionSummary times="3" last="1590816733790" />
       </entry>
+      <entry key="NewProject">
+        <ActionSummary times="1" last="1590829511941" />
+      </entry>
       <entry key="NewPythonFile">
         <ActionSummary times="1" last="1590822660426" />
       </entry>
@@ -92,13 +98,13 @@
         <ActionSummary times="8" last="1590816698911" />
       </entry>
       <entry key="SearchEverywhere">
-        <ActionSummary times="3" last="1590817143335" />
+        <ActionSummary times="7" last="1590830994411" />
       </entry>
       <entry key="ShowProjectStructureSettings">
         <ActionSummary times="1" last="1590811568859" />
       </entry>
       <entry key="ShowSettings">
-        <ActionSummary times="17" last="1590823570249" />
+        <ActionSummary times="29" last="1590830778083" />
       </entry>
       <entry key="TemplateProjectProperties">
         <ActionSummary times="1" last="1590816666596" />
@@ -110,13 +116,13 @@
         <ActionSummary times="2" last="1590811277097" />
       </entry>
       <entry key="WelcomeScreen.OpenProject">
-        <ActionSummary times="1" last="1590822566424" />
+        <ActionSummary times="2" last="1590829442123" />
       </entry>
       <entry key="WelcomeScreen.Plugins">
-        <ActionSummary times="3" last="1590811152657" />
+        <ActionSummary times="5" last="1590830923046" />
       </entry>
       <entry key="WelcomeScreen.Settings">
-        <ActionSummary times="4" last="1590810929186" />
+        <ActionSummary times="5" last="1590830997090" />
       </entry>
       <entry key="com.intellij.framework.detection.impl.FrameworkDetectionManager$3">
         <ActionSummary times="1" last="1590822666166" />
@@ -131,19 +137,19 @@
         <ActionSummary times="8" last="1590823300304" />
       </entry>
       <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-        <ActionSummary times="1" last="1590817154684" />
+        <ActionSummary times="4" last="1590830733494" />
       </entry>
       <entry key="com.intellij.openapi.ui.DialogWrapper$5">
-        <ActionSummary times="1" last="1590823471122" />
+        <ActionSummary times="5" last="1590830452057" />
       </entry>
       <entry key="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
         <ActionSummary times="2" last="1590810179727" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
-        <ActionSummary times="1" last="1590810351579" />
+        <ActionSummary times="6" last="1590829386926" />
       </entry>
       <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
-        <ActionSummary times="8" last="1590822561166" />
+        <ActionSummary times="13" last="1590830995659" />
       </entry>
       <entry key="com.intellij.ui.CommonActionsPanel$EditButton">
         <ActionSummary times="2" last="1590822602306" />
@@ -151,8 +157,11 @@
       <entry key="com.intellij.ui.CommonActionsPanel$RemoveButton">
         <ActionSummary times="20" last="1590810592215" />
       </entry>
+      <entry key="com.intellij.ui.ScrollingUtil$6">
+        <ActionSummary times="7" last="1590830732013" />
+      </entry>
       <entry key="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
-        <ActionSummary times="1" last="1590810310295" />
+        <ActionSummary times="11" last="1590830937119" />
       </entry>
       <entry key="io.flutter.FlutterInitializer$1">
         <ActionSummary times="1" last="1590811355148" />

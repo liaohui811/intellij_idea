@@ -20,7 +20,8 @@
         <option name="jreName" value="#JAVA_HOME" />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="go.import.settings.migrated" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
     </defaultProject>
   </component>

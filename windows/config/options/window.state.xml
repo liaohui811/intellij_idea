@@ -1,6 +1,6 @@
 <application>
   <component name="WindowManager">
-    <frame x="15" y="30" width="1890" height="960" extendedState="6" />
+    <frame x="-11" y="-11" width="1943" height="1043" extendedState="6" />
     <layout>
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -12,22 +12,22 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="235" y="0" key="#Plugins" timestamp="1590811263364">
+    <state x="235" y="0" key="#Plugins" timestamp="1590830943283">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="235" y="0" key="#Plugins/0.0.1280.680" timestamp="1590811263364" />
-    <state x="423" y="64" key="FileChooserDialogImpl" timestamp="1590822576403">
+    <state x="235" y="0" key="#Plugins/0.0.1280.680" timestamp="1590830943283" />
+    <state x="423" y="64" key="FileChooserDialogImpl" timestamp="1590829452035">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="423" y="64" key="FileChooserDialogImpl/0.0.1280.680" timestamp="1590822576403" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1590810973115">
+    <state x="423" y="64" key="FileChooserDialogImpl/0.0.1280.680" timestamp="1590829452035" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1590831011933">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680" timestamp="1590810973115" />
-    <state x="641" y="309" key="WELCOME_SCREEN" timestamp="1590823752891">
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680" timestamp="1590831011933" />
+    <state x="642" y="309" key="WELCOME_SCREEN" timestamp="1590831013980">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="641" y="309" key="WELCOME_SCREEN/0.0.1280.680" timestamp="1590823752891" />
+    <state x="642" y="309" key="WELCOME_SCREEN/0.0.1280.680" timestamp="1590831013980" />
     <state x="60" y="0" key="new project wizard" timestamp="1590811297413">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
