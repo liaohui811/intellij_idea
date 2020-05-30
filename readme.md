@@ -2,10 +2,10 @@
 https://fls.jetbrains-agent.com
 ******
 ******
-<div>
+<div align="center">
 <img src="https://liangchengj.gitee.io/static/img/help.jpg"/>
 </div>
-<div>
+<div align="center">
 <img src="https://liangchengj.gitee.io/static/img/register.jpg"/>
 </div>
 
