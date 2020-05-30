@@ -3,6 +3,9 @@ https://fls.jetbrains-agent.com
 ******
 ******
 <div>
+<img src="https://liangchengj.gitee.io/static/img/help.jpg"/>
+</div>
+<div>
 <img src="https://liangchengj.gitee.io/static/img/register.jpg"/>
 </div>
 
