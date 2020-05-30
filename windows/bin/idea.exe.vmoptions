@@ -1,0 +1,17 @@
+-server
+-Xms2048m
+-Xmx10240m
+-XX:ReservedCodeCacheSize=500m
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-ea
+-XX:CICompilerCount=2
+-Dsun.io.useCanonPrefixCache=false
+-Djdk.http.auth.tunneling.disabledSchemes=""
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:-OmitStackTraceInFastThrow
+-Djdk.attach.allowAttachSelf=true
+-Dkotlinx.coroutines.debug=off
+-Djdk.module.illegalAccess.silent=true
+-XX:MaxJavaStackTraceDepth=10000
+# -javaagent:javaagent.jar
