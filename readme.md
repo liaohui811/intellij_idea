@@ -2,7 +2,9 @@
 https://fls.jetbrains-agent.com
 ******
 ******
+<div>
 <img src="linux/help/register.jpg"/>
+</div>
 
 ******
 ******
