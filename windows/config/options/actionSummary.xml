@@ -8,34 +8,40 @@
         <ActionSummary times="7" last="1590815633260" />
       </entry>
       <entry key="CloseProject">
-        <ActionSummary times="1" last="1590817195578" />
+        <ActionSummary times="2" last="1590823739899" />
+      </entry>
+      <entry key="CreateTaglibFileAction">
+        <ActionSummary times="3" last="1590823467994" />
+      </entry>
+      <entry key="ERB.CreateNewFile">
+        <ActionSummary times="1" last="1590823501250" />
       </entry>
       <entry key="EditorBackSpace">
-        <ActionSummary times="238" last="1590817114729" />
+        <ActionSummary times="266" last="1590823618461" />
       </entry>
       <entry key="EditorChooseLookupItem">
-        <ActionSummary times="49" last="1590816486138" />
+        <ActionSummary times="54" last="1590823352804" />
       </entry>
       <entry key="EditorCopy">
-        <ActionSummary times="49" last="1590816603284" />
+        <ActionSummary times="50" last="1590823318920" />
       </entry>
       <entry key="EditorCut">
         <ActionSummary times="4" last="1590816522372" />
       </entry>
       <entry key="EditorDown">
-        <ActionSummary times="18" last="1590816626412" />
+        <ActionSummary times="20" last="1590823377854" />
       </entry>
       <entry key="EditorEnter">
-        <ActionSummary times="151" last="1590816631851" />
+        <ActionSummary times="153" last="1590823601255" />
       </entry>
       <entry key="EditorLeft">
         <ActionSummary times="10" last="1590816627915" />
       </entry>
       <entry key="EditorPaste">
-        <ActionSummary times="259" last="1590816616036" />
+        <ActionSummary times="260" last="1590823321468" />
       </entry>
       <entry key="EditorRight">
-        <ActionSummary times="121" last="1590816058006" />
+        <ActionSummary times="134" last="1590823353739" />
       </entry>
       <entry key="EditorTab">
         <ActionSummary times="2" last="1590813429851" />
@@ -46,14 +52,41 @@
       <entry key="ExternalSystem.ProjectRefreshAction">
         <ActionSummary times="4" last="1590816498486" />
       </entry>
+      <entry key="Go.NewGoFile">
+        <ActionSummary times="1" last="1590822861496" />
+      </entry>
+      <entry key="Kotlin.NewFile">
+        <ActionSummary times="1" last="1590822830435" />
+      </entry>
+      <entry key="Kotlin.NewScript">
+        <ActionSummary times="1" last="1590823558415" />
+      </entry>
       <entry key="NewClass">
         <ActionSummary times="3" last="1590814242929" />
+      </entry>
+      <entry key="NewFxmlFile">
+        <ActionSummary times="1" last="1590822683024" />
+      </entry>
+      <entry key="NewHtmlFile">
+        <ActionSummary times="1" last="1590822640018" />
+      </entry>
+      <entry key="NewJavaScriptFile">
+        <ActionSummary times="1" last="1590822878606" />
       </entry>
       <entry key="NewModule">
         <ActionSummary times="1" last="1590816546029" />
       </entry>
       <entry key="NewModuleInGroup">
         <ActionSummary times="3" last="1590816733790" />
+      </entry>
+      <entry key="NewPythonFile">
+        <ActionSummary times="1" last="1590822660426" />
+      </entry>
+      <entry key="NewTypeScriptFile">
+        <ActionSummary times="1" last="1590823540155" />
+      </entry>
+      <entry key="PhpNewClass">
+        <ActionSummary times="1" last="1590822801107" />
       </entry>
       <entry key="ReformatCode">
         <ActionSummary times="8" last="1590816698911" />
@@ -65,7 +98,7 @@
         <ActionSummary times="1" last="1590811568859" />
       </entry>
       <entry key="ShowSettings">
-        <ActionSummary times="9" last="1590816766550" />
+        <ActionSummary times="17" last="1590823570249" />
       </entry>
       <entry key="TemplateProjectProperties">
         <ActionSummary times="1" last="1590816666596" />
@@ -85,11 +118,23 @@
       <entry key="WelcomeScreen.Settings">
         <ActionSummary times="4" last="1590810929186" />
       </entry>
+      <entry key="com.intellij.framework.detection.impl.FrameworkDetectionManager$3">
+        <ActionSummary times="1" last="1590822666166" />
+      </entry>
+      <entry key="com.intellij.ide.actions.EditFileTemplatesAction">
+        <ActionSummary times="1" last="1590823673968" />
+      </entry>
+      <entry key="com.intellij.ide.fileTemplates.actions.CreateFromTemplateAction">
+        <ActionSummary times="1" last="1590823637582" />
+      </entry>
       <entry key="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6">
-        <ActionSummary times="6" last="1590812392372" />
+        <ActionSummary times="8" last="1590823300304" />
       </entry>
       <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
         <ActionSummary times="1" last="1590817154684" />
+      </entry>
+      <entry key="com.intellij.openapi.ui.DialogWrapper$5">
+        <ActionSummary times="1" last="1590823471122" />
       </entry>
       <entry key="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
         <ActionSummary times="2" last="1590810179727" />
