@@ -1,0 +1,24 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="go-project-model" />
+    <converter id="goland-project-model" />
+    <converter id="go-build-tags-settings" />
+    <converter id="go-run-file-configuration" />
+    <converter id="go-build-configuration" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="scala-facets-to-sdks" />
+    <converter id="Play2ModuleTypeConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\LiangchengJ\IdeaProjects\untitled\.idea\compiler.xml" timestamp="1590817044576" />
+    <file path="C:\Users\LiangchengJ\IdeaProjects\untitled\.idea\misc.xml" timestamp="1590817044586" />
+    <file path="C:\Users\LiangchengJ\IdeaProjects\untitled\.idea\jarRepositories.xml" timestamp="1590811347951" />
+    <file path="C:\Users\LiangchengJ\IdeaProjects\untitled\.idea\encodings.xml" timestamp="1590811298302" />
+    <file path="C:\Users\LiangchengJ\IdeaProjects\untitled\.idea\workspace.xml" timestamp="1590817195666" />
+  </project-files>
+</conversion>

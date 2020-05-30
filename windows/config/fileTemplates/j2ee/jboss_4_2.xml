@@ -1,0 +1,5 @@
+#parse("XML File Header.xml")
+<!DOCTYPE jboss PUBLIC "-//JBoss//DTD JBOSS 4.2//EN"
+        "http://www.jboss.org/j2ee/dtd/jboss_4_2.dtd">
+<jboss>
+</jboss>

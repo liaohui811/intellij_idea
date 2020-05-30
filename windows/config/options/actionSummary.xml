@@ -1,0 +1,111 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$SelectAll">
+        <ActionSummary times="4" last="1590812594314" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="7" last="1590815633260" />
+      </entry>
+      <entry key="CloseProject">
+        <ActionSummary times="1" last="1590817195578" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="238" last="1590817114729" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="49" last="1590816486138" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="49" last="1590816603284" />
+      </entry>
+      <entry key="EditorCut">
+        <ActionSummary times="4" last="1590816522372" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="18" last="1590816626412" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="151" last="1590816631851" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="10" last="1590816627915" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="259" last="1590816616036" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="121" last="1590816058006" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="2" last="1590813429851" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="24" last="1590816138695" />
+      </entry>
+      <entry key="ExternalSystem.ProjectRefreshAction">
+        <ActionSummary times="4" last="1590816498486" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="3" last="1590814242929" />
+      </entry>
+      <entry key="NewModule">
+        <ActionSummary times="1" last="1590816546029" />
+      </entry>
+      <entry key="NewModuleInGroup">
+        <ActionSummary times="3" last="1590816733790" />
+      </entry>
+      <entry key="ReformatCode">
+        <ActionSummary times="8" last="1590816698911" />
+      </entry>
+      <entry key="SearchEverywhere">
+        <ActionSummary times="3" last="1590817143335" />
+      </entry>
+      <entry key="ShowProjectStructureSettings">
+        <ActionSummary times="1" last="1590811568859" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="9" last="1590816766550" />
+      </entry>
+      <entry key="TemplateProjectProperties">
+        <ActionSummary times="1" last="1590816666596" />
+      </entry>
+      <entry key="WelcomeScreen.Configure.Export">
+        <ActionSummary times="3" last="1590817154691" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="2" last="1590811277097" />
+      </entry>
+      <entry key="WelcomeScreen.Plugins">
+        <ActionSummary times="3" last="1590811152657" />
+      </entry>
+      <entry key="WelcomeScreen.Settings">
+        <ActionSummary times="4" last="1590810929186" />
+      </entry>
+      <entry key="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6">
+        <ActionSummary times="6" last="1590812392372" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="1" last="1590817154684" />
+      </entry>
+      <entry key="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
+        <ActionSummary times="2" last="1590810179727" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+        <ActionSummary times="1" last="1590810351579" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
+        <ActionSummary times="7" last="1590811151020" />
+      </entry>
+      <entry key="com.intellij.ui.CommonActionsPanel$RemoveButton">
+        <ActionSummary times="20" last="1590810592215" />
+      </entry>
+      <entry key="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+        <ActionSummary times="1" last="1590810310295" />
+      </entry>
+      <entry key="io.flutter.FlutterInitializer$1">
+        <ActionSummary times="1" last="1590811355148" />
+      </entry>
+    </data>
+  </component>
+</application>

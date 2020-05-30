@@ -1,0 +1,11 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="a" target="11" />
+      <module name="b" target="11" />
+      <module name="c" target="$JDK.VERSION$" />
+      <module name="d" target="11" />
+      <module name="untitled" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

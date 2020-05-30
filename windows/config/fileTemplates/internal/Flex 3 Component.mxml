@@ -1,0 +1,3 @@
+#parse("XML File Header.xml")
+<${Superclass} xmlns:mx="http://www.adobe.com/2006/mxml">
+</${Superclass}>
