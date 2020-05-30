@@ -5,7 +5,8 @@ https://fls.jetbrains-agent.com
 <img src="linux/help/register.jpg"/>
 ******
 ******
-#### Default VM Options  
+
+### Default VM Options  
 ```
 -Xms256m  
 -Xmx768m  
