@@ -3,7 +3,7 @@ https://fls.jetbrains-agent.com
 ******
 ******
 <div>
-<img src="https://github.com/liangchengj/intellij_idea/blob/master/linux/help/register.jpg"/>
+<img src="https://liangchengj.gitee.io/static/img/register.jpg"/>
 </div>
 
 ******
