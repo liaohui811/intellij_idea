@@ -10,7 +10,7 @@ https://fls.jetbrains-agent.com
 ******
 ### Default VM Options  
 ```
--Xms256m  
--Xmx768m  
+-Xms256m
+-Xmx768m
 -XX:ReservedCodeCacheSize=240m
 ```
